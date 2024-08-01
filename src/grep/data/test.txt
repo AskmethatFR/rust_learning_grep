@@ -1,0 +1,3 @@
+bonjour je suis un fichier de test
+il me permettra de tester les uses cases de lecture de fichier
+et de récupérer des information à l'intérieur comme pour grep
